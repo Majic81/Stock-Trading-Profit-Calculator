@@ -9,7 +9,7 @@ To get started, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock-trading-profit.git
+git clone git@github.com:Majic81/Stock-Trading-Profit-Calculator.git
 cd stock-trading-profit
 ```
 

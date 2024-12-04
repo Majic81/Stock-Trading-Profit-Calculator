@@ -180,9 +180,8 @@ The project includes a set of test cases to verify the correctness of the tradin
 - Basic profit scenarios
 - Edge cases (empty/single element arrays)
 - Monotonic series (increasing or decreasing prices)
-- Multiple peaks and valleys in the price series
+- Multiple peaks in the price series
 - Large price variations
 
 You can run the test cases by executing the `src/profitTest.ts` file using the `npx ts-node` command.
 
-Feel free to explore the code, run the tests, and try out the interactive CLI. If you have any questions or need further assistance, please don't hesitate to ask.
